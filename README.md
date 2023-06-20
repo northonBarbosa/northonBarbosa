@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=northonbarbosa" alt="northonbarbosa" /></a> </p>
 
-- 🔭 I’m currently working on [Checklist APP from AZShip](-SECRET-)
+- 🔭 I’m currently working on [Digitra.com's app](https://www.digitra.com/pt/)
 
 - 🌱 I’m currently learning **Improving Figma Skills, Implement Clean Architecture in a new Project, Depth Learning in Python, ReactJS**
 

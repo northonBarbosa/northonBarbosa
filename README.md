@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Digitra.com's app](https://www.digitra.com/pt/)
 
-- 🌱 I’m currently learning **Improving Figma Skills, Implement Clean Architecture in a new Project, Depth Learning in Python, ReactJS**
+- 🌱 I’m currently learning **ReactJS, Typescript, Tailwind, Gatsby and Strapi**
 
 - 📫 How to reach me **northonbarbosa@gmail.com**
 

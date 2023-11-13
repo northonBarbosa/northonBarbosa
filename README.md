@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=northonbarbosa" alt="northonbarbosa" /></a> </p>
 
-- 🔭 I’m currently working at [wConnect]([https://www.digitra.com/pt/](https://www.wconnect.com.br/))
+- 🔭 I’m currently working at [wConnect](https://www.wconnect.com.br/)
 
 - 🌱 I’m currently learning **ReactJS, Typescript, Tailwind, Gatsby and Strapi**
 
